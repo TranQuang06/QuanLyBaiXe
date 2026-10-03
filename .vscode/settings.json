@@ -1,0 +1,10 @@
+{
+    "files.associations": {
+        "ostream": "cpp",
+        "cmath": "cpp"
+    },
+    "java.project.referencedLibraries": [
+        "lib/**/*.jar",
+        "d:\\CODE\\mysql-connector-j-9.1.0\\mysql-connector-j-9.1.0\\mysql-connector-j-9.1.0.jar"
+    ]
+}
